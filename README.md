@@ -1,6 +1,7 @@
 # Tip-Calculator
 
 ### Tip-Calculator Proyect
+This app will calculate your tip given a porcentage with animations to make the app more interective!
 
 **Screenshot**
 
